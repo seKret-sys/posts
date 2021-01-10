@@ -2,7 +2,7 @@
 title: APT Attacks Basics
 layout: home
 author: seKret
-permalink: apt-attacks
+permalink: apt-attacks.html
 ---
 Today i'm going to talk about **APT Attacks**.
 APT its the short of "Advanced Persistent Threats", this type of threat targets the weakest link in the chain, the human factor.
