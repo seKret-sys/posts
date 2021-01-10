@@ -1,7 +1,7 @@
 ---
 title: /home
 layout: home
-permalink: /home
+permalink: /
 ---
 
 [10/01/2021] [APT Attacks](https://sekret-sys.github.io/posts/apt-attacks.html)
