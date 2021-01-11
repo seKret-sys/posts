@@ -17,7 +17,7 @@ This is the one of the most common, one example of this vector its sending a ema
 This technique consists in sending to an employee a link to a malicious website, this website with an exploit (an exploit its a piece of malware that exploits a vulnerability) will force the victims browser to execute whatever the attacker wants.
 
 · **Watering Hole**
-This vector uses website ads for infect the victim. The ad will redirect the victim to another webpage thats will scan your browser looking for vulnerabilities to exploit.
+This vector uses website ads for infect the victim. The ad will redirect the victim to another webpage thats will scan your browser looking for vulnerabilities to exploit, once the scan its finish, if there is any discovery the webpage will load an exploit to take an approach of this vulnerability found.
 
 · **Hacking the supply chains**
 The targets surely use third party things, like third party software, maybe this third party enterprise have a low security and its more easy to hack them than our target, we as attackers will hack this third party enterprise and give to our target a new version of the software their are using but trojanized, this is an example of this vector.
