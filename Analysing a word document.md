@@ -66,7 +66,7 @@ The explaining of this function its the following:
 
 It creates a file in the path you specified in the arguments and returns a file pointer to a variable, in this case the variable 'anzes' will have the file pointer. The '2' in the parameters specifies 'writing mode'.
 
-The next thing the malware will do its a for each loop in the contents of the variable that has the strange text, the goal of this loop its delete every '|*|' in the text.
+The next thing the malware will do its a for each loop in the contents of the variable that has the strange text, the goal of this loop its delete every `|*|` in the text.
 
 ![](https://i.imgur.com/L1HePKh.png)
 
