@@ -11,8 +11,8 @@ The main motivations of this attacks are political reasons, financial, business 
 There are different APT vectors:
 
 · **Spear-phising**
-This is the one of the most common, one example of this vector its sending a email with a malicious word document to an employee, when the employee opens the document, he will be infected.
-
+testof this vector its sending a email with a malicious word document to an employee, when the employee opens the document, he will be infected.
+esto e suna prueba de brebaje de coca
 · **Drive-By Download**
 This technique consists in sending to an employee a link to a malicious website, this website with an exploit (an exploit its a piece of malware that exploits a vulnerability) will force the victims browser to execute whatever the attacker wants.
 
