@@ -6,7 +6,7 @@ permalink: apt-attacks.html
 ---
 Today i'm going to talk about **APT Attacks**.
 APT its the short of "Advanced Persistent Threats", this type of threat targets the weakest link in the chain, the human factor.
-This types of attacks take a long time to prepare, the strategy and the knowing of the target its one of the most important things in this type of attack. The attackers can be inside the organizations a lot of time gathering information for the next stage.
+This types of attacks take a long time to preparsssse, the strategy and the knowing of the target its one of the most important things in this type of attack. The attackers can be inside the organizations a lot of time gathering information for the next stage.
 The main motivations of this attacks are political reasons, financial, business rivalry, etc...
 There are different APT vectors:
 
